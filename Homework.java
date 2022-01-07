@@ -8,7 +8,7 @@ package by.jonline.lec01.v01;
  * task:
  * calculate z=((a-3)*b/2)+c
  */
-public class Homework {
+public class Homework010101 {
 	public static void main(String[] args) {
 		double a=2;
 		double b=2;
