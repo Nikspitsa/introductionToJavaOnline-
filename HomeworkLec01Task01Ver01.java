@@ -1,9 +1,6 @@
-/**
- * 
- */
 package by.jonline.lec01.v01;
 
-/**
+/*
  * @author Nik
  * task:
  * calculate z=((a-3)*b/2)+c
