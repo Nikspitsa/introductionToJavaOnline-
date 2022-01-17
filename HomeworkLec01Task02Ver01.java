@@ -15,7 +15,7 @@ public class HomeworkLec01Task02Ver01 {
 		double pow1 = Math.pow(b,2);
 	// calculate b^-2
 		double pow2 = Math.pow(b,-2);
-	// calculate a^3^2
+	// calculate a^3
 		double pow3 = Math.pow(a,3);
 		double sqrt = Math.sqrt(pow1+4*a*c);
 			
