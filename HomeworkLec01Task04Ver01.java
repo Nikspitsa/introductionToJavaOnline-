@@ -1,6 +1,7 @@
 package by.jonline.lec01.v01;
 
-/* @author Nik
+/* 
+* @author Nik
 * Task:
 * given a real number nnn.ddd. swap whole and fractional parts (ddd.nnn)
 */
