@@ -1,8 +1,8 @@
 package by.jonline.lec01.v01;
 
-/**
+/*
  * @author Nik
- * task:
+ * Task:
  * calculate z=(sin(x)+cos(y))/(cos(x)-sin(y))*tg(x*y)
  */
 
