@@ -2,7 +2,7 @@ package by.jonline.lec01.v01;
 
 /*
  * @author Nik
- * task:
+ * Task:
  * calculate z=((a-3)*b/2)+c
  */
 public class HomeworkLec01Task01Ver01 {
