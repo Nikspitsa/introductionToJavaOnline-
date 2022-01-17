@@ -2,7 +2,7 @@ package by.jonline.lec01.v01;
 
 /*
  * @author Nik
- * Task
+ * Task:
  * Find max{min(a,b),min(c,d)}
  */
 public class HomeworkLec01TaskB02ver01 {
